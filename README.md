@@ -328,7 +328,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Nandini Singh**
+**Kajal Singh**
 
 B.Tech Computer Science Engineering
 
